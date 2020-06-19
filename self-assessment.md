@@ -12,3 +12,7 @@
 
 
 # Continuing Education
+* Over the course of my career, I have done a lot of learning on the job.  Much of my learning has been by looking at examples and googling the internet.
+* Currently, there are a lot of options for online learning, like lynda.com and udemy.com.
+* The online documentation available for most products, but especially microsoft products, has really gotten very good.
+* My son is a Computer Science major at Iowa State, so lately I have been learning how little I know.
